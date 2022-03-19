@@ -10,4 +10,4 @@ Overall, I am very happy with the result, it's a simple grid layout with primary
 
 ## To be improves
 
-- I'm still not sure about having so much information packed onto one webpage but i wasn't sure how to cut it down. Maria Curie lived a very full life! If I were to do it again I would cut down on the amount of info, especially for mobile devices where it could get overwhelming.
+I'm still not sure about having so much information packed onto one webpage but i wasn't sure how to cut it down. Maria Curie lived a very full life! If I were to do it again I would cut down on the amount of info, especially for mobile devices where it could get overwhelming.
